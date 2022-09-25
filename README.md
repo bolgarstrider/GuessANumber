@@ -8,6 +8,10 @@
 ### Source code:
 https://github.com/bolgarstrider/GuessANumber/blob/main/guess-a-number.js
 
+### Live Demo
+ You can play the game in the browser:
+ https://replit.com/@GeorgeGergov/guessANumber#index.js
+
 
 #### Screenshots:
 ![image](https://user-images.githubusercontent.com/113753604/192154474-f103244d-1c41-4e80-b311-9fbcd5680853.png)

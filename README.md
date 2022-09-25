@@ -6,6 +6,7 @@
    - Level 3: Guess a number between - - 300 within 15 tries;
 
 ### Source code:
+https://github.com/bolgarstrider/GuessANumber/blob/main/guess-a-number.js
 
 
 #### Screenshots:
